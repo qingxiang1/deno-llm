@@ -1,0 +1,24 @@
+{
+  "imports": {
+    "lodash": "npm:/lodash@4.17.21",
+    "dotenv": "https://deno.land/std@0.220.0/dotenv/mod.ts",
+    "langchain": "npm:/langchain@0.2.3",
+    "langchain/": "npm:/langchain@0.2.3/",
+    "@langchain/openai": "npm:/@langchain/openai@0.0.22",
+    "@langchain/openai/": "npm:/@langchain/openai@0.0.22/",
+    "@langchain/core": "npm:/@langchain/core@0.1.48",
+    "@langchain/core/": "npm:/@langchain/core@0.1.48/",
+    "zod": "npm:/zod",
+    "pdf-parse": "npm:/pdf-parse/lib/pdf-parse.js",
+    "ignore": "npm:/ignore",
+    "cheerio": "npm:/cheerio",
+    "vectordb": "npm:/vectordb",
+    "@lancedb/lancedb": "npm:/@lancedb/lancedb",
+    "faiss-node": "npm:/faiss-node",
+    "openai": "npm:/openai",
+    "@langchain/community": "npm:/@langchain/community@0.2.2",
+    "@langchain/community/": "npm:/@langchain/community@0.2.2/",
+    "zod-to-json-schema": "npm:/zod-to-json-schema"
+  },
+  "deno.enable": true
+}
