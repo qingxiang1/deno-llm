@@ -5,7 +5,7 @@ import "dotenv/config";
 import { LLMChainExtractor } from "langchain/retrievers/document_compressors/chain_extract";
 import { ContextualCompressionRetriever } from "langchain/retrievers/contextual_compression";
 
-process.env.LANGCHAIN_VERBOSE = "true";
+// process.env.LANGCHAIN_VERBOSE = "true";
 
 async function run() {
   const directory = "./db/kongyiji";

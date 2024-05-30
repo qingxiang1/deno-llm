@@ -7,7 +7,7 @@ const embeddings = new AlibabaTongyiEmbeddings({});
 const vectorStore = await FaissStore.load(directory, embeddings);
 
 const retriever = vectorStore.asRetriever(2);
-const res = await retriever.invoke("茴香豆是做什么用的");
+const res = await retriever.invoke('孔乙己是干什么的');
 
 console.log(res);
 
