@@ -2,7 +2,7 @@
   {
     "type": "human",
     "data": {
-      "content": "Hi, 我叫小明",
+      "content": "你好，我是叮当猫",
       "additional_kwargs": {},
       "response_metadata": {}
     }
@@ -18,7 +18,7 @@
   {
     "type": "human",
     "data": {
-      "content": "我叫什么？",
+      "content": "我是谁？",
       "additional_kwargs": {},
       "response_metadata": {}
     }
@@ -26,7 +26,7 @@
   {
     "type": "ai",
     "data": {
-      "content": "你叫小明。",
+      "content": "你是在说中文的“叮当猫”，这通常是中国动画《哆啦A梦》中的主角，一个来自22世纪的机器猫，以你的名字“Ding Dang”进行交流。",
       "additional_kwargs": {},
       "response_metadata": {}
     }
