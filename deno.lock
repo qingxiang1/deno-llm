@@ -460,7 +460,7 @@
       "npm:ignore",
       "npm:langchain@0.2.3",
       "npm:lodash@4.17.21",
-      "npm:openai@4.40.0",
+      "npm:openai@4.47.1",
       "npm:pdf-parse",
       "npm:vectordb",
       "npm:zod",
